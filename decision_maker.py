@@ -1,16 +1,15 @@
 import random
 
 def main():
-
-print('  __  __          _____ _____ _____  ')
-print(' |  \/  |   /\   / ____|_   _/ ____| ')
-print(' | \  / |  /  \ | |  __  | || |      ')
-print(' | |\/| | / /\ \| | |_ | | || |      ')
-print(' | |  | |/ ____ \ |__| |_| || |____  ')
-print(' |_|  |_/_/    \_\_____|_____\_____| ')
-print('')
-print('')
-print('')
+    print('  __  __          _____ _____ _____  ')
+    print(' |  \/  |   /\   / ____|_   _/ ____| ')
+    print(' | \  / |  /  \ | |  __  | || |      ')
+    print(' | |\/| | / /\ \| | |_ | | || |      ')
+    print(' | |  | |/ ____ \ |__| |_| || |____  ')
+    print(' |_|  |_/_/    \_\_____|_____\_____| ')
+    print('')
+    print('')
+    print('')
     print("Welcome to Decision Maker!")
     print("I will help you to find an answer")
     print(" ")
